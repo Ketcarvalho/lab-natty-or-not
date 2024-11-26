@@ -67,7 +67,7 @@ Fiz a interação no chatGPT para a criação da historia do personagel, e assim
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-[Turbo](https://share.vidnoz.com/aivideo?id=aishare-vygVdPgWG8SrRI5yUnqyWNdv173258345411865478)
+**[Turbo](https://share.vidnoz.com/aivideo?id=aishare-vygVdPgWG8SrRI5yUnqyWNdv173258345411865478)**
 Deixo aqui a minha apresentação do Turbo
 
 ## 💭 Reflexão (Opcional)
