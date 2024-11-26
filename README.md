@@ -66,8 +66,8 @@ ChatGPT, Vidnoz
 Fiz a interação no chatGPT para a criação da historia do personagel, e assim fui para o Vidnoz aonde realizei a escolha do Avatar como eu queria que fosse o personagem, para a realização do video, assim fui fazendo as modificações no texto para parecer mais real, e na duração aonde desse para entender, e passar a ideia do projeto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-**[Turbo](https://share.vidnoz.com/aivideo?id=aishare-vygVdPgWG8SrRI5yUnqyWNdv173258345411865478)**
+[Turbo](https://share.vidnoz.com/aivideo?id=aishare-vygVdPgWG8SrRI5yUnqyWNdv173258345411865478).
+
 Deixo aqui a minha apresentação do Turbo
 
 ## 💭 Reflexão (Opcional)
